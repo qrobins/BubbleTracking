@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>String</key>
+	<string>Sphere Position
+Position (cm)
+Time (s)
+Sphere Velocity 
+Velocity (cm/s)
+Time (s)
+Sphere Velocity vs. Position
+Velocity (cm/s)
+Position (cm)
+Text</string>
+</dict>
+</plist>
